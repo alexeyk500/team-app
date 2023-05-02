@@ -1,6 +1,6 @@
 .container {
   display: flex;
-  width: 290px;
+  width: 302px;
   height: 115px;
   border-radius: 12px !important;
   color: var(--color-bg-default);
