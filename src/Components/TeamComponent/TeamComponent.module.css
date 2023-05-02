@@ -1,0 +1,16 @@
+.container {
+  display: flex;
+  margin-top: 60px;
+  justify-content: center;
+}
+
+.contentContainer {
+  display: flex;
+  width: 2048px;
+  padding: 0 64px;
+  flex-direction: column;
+}
+
+.title {
+  margin-bottom: 8px;
+}

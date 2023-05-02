@@ -1,0 +1,28 @@
+.header {
+  z-index: 1;
+}
+
+.logo {
+  cursor: pointer;
+}
+
+.menu {
+  margin-left: 80px;
+  margin-top: 13px;
+}
+
+.container {
+  display: flex;
+}
+
+.btnContainer {
+  display: flex;
+  height: 100%;
+  align-items: center;
+  margin-right: 32px;
+}
+
+.logoBtn {
+  height: 32px;
+  width: 32px;
+}
